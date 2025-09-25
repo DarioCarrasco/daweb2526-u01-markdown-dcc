@@ -29,7 +29,7 @@
 
 ![Esto es una imagen de 400x400](https://placehold.co/400)
 
-![Esto es una imagen en el repositorio](/home/usuario-m/DespliegeAplicacionesWeb/PrimeraEvaluacion/Calamardo.jpg)
+![Esto es una imagen en el repositorio](images/Calamardo.jpg)
 
 > Esto es una cita
 
@@ -41,8 +41,9 @@ public class Hola {
         System.out.println("Hola Mundo");
     }
 }
+```
 
 | Nombre | Edad | Ciudad   |
-|:-------|:----:|:----------|
+|:-------|:---:|:----------|
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
