@@ -47,3 +47,5 @@ public class Hola {
 |:-------|:---:|:----------|
 | Ana    |  25 | Granada   |
 | Juan   |  30 | Jaén      |
+
+[Enlace al CHANGELOG](https://github.com/DarioCarrasco/daweb2526-u01-markdown-dcc/blob/main/CHANGELOG.md)
